@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from datetime import date
 
-
+#%%
 """
 dataset split:
                       (date_received)                              
