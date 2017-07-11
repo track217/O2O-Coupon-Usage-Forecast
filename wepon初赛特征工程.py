@@ -1,4 +1,4 @@
-###
+'''
 wepon的初赛特征总结
 目的：根据用户历史消费数据，预测用户是否会在规定时间内使用相应优惠券
 
@@ -73,4 +73,4 @@ Date            消费日期：如果Date=null & Coupon_id != null，该记录�
       this_day_user_receive_all_coupon_count
       this_day_user_receive_same_coupon_count
       day_gap_before, day_gap_after  (receive the same coupon)
-
+'''
